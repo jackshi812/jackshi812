@@ -84,7 +84,7 @@ Conducted company valuation, DCF modeling, comparable company analysis, and sect
 
 I'm always open to connecting around data science, finance, research, and analytics projects.
 
-<a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
+<a href="https://www.linkedin.com/in/jackshi812/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black" alt="LinkedIn">
 </a>
 
