@@ -102,8 +102,8 @@ I enjoy turning messy data into clear insight, building models for real-world pr
 ## Stats
 
 <p>
-  <img align="center" height="165" src="./profile/stats.svg" alt="Jack's GitHub stats" />
-  <img align="center" height="165" src="./profile/top-langs.svg" alt="Jack's top languages" />
+  <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/stats.svg" alt="Jack's GitHub stats" />
+  <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/top-langs.svg" alt="Jack's top languages" />
 </p>
 
 ---
