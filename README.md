@@ -99,15 +99,10 @@ I enjoy turning messy data into clear insight, building models for real-world pr
 
 ---
 
-## GitHub Focus
+## Stats
 
 <p>
-  <a href="https://github.com/jackshi812?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data science focus" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine learning focus" />
-  <img src="https://img.shields.io/badge/Focus-Finance%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Finance analytics focus" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackshi812&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
