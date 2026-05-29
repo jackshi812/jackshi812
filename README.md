@@ -1,6 +1,6 @@
 # Hi, I'm Jack Shi 👋
 
-I'm a data science and finance student focused on building practical analytics, machine learning, and financial research projects.
+I'm a data science and finance student building practical analytics, machine learning, and financial research projects.
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-lightgrey)
@@ -12,9 +12,9 @@ I'm a data science and finance student focused on building practical analytics, 
 
 ## About Me
 
-I am currently pursuing an M.S. in Applied Data Science at the University of Chicago, with a background in Economics and Mathematics. My work sits at the intersection of **data analytics, machine learning, finance, and business decision-making**.
+I'm currently pursuing an M.S. in Applied Data Science at the University of Chicago, with a background in Economics and Mathematics. My work sits at the intersection of **data analytics, machine learning, finance, and business decision-making**.
 
-I enjoy turning messy data into clear insights, building models that solve practical problems, and communicating results in a way that stakeholders can understand.
+I enjoy turning messy data into clear insight, building models for real-world problems, and communicating results in a way that helps people make better decisions.
 
 ---
 
@@ -37,30 +37,30 @@ I enjoy turning messy data into clear insights, building models that solve pract
 ## Selected Projects
 
 ### Computer Vision Bird Tracking
-Improving bird detection and track recovery in 4K video data for an avian monitoring project.
+Improved bird detection and track recovery in 4K video data for an avian monitoring project.
 
 ### Multimodal Meme Clustering
-Built an unsupervised clustering pipeline using image embeddings, OCR text, template features, and graph-based clustering.
+Built an unsupervised clustering pipeline that combines image embeddings, OCR text, template features, and graph-based clustering.
 
 ### Spotify Clustering and Recommendation
-Used audio features and lyrics text to cluster songs and explore recommendation patterns.
+Clustered songs with audio features and lyrics text to explore recommendation patterns and listener-facing similarity.
 
 ### Financial Valuation and Equity Research
-Worked on company valuation, DCF modeling, comparable analysis, and sector research.
+Conducted company valuation, DCF modeling, comparable company analysis, and sector research.
 
 ---
 
 ## What I'm Working On
 
-- Building stronger machine learning and data engineering foundations
+- Strengthening my machine learning and data engineering foundations
 - Applying computer vision to real-world detection problems
 - Preparing for analytics, business analyst, equity research, and quantitative finance roles
-- Improving cloud-based data workflows
+- Improving cloud-based data workflows and reproducible project pipelines
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: add your LinkedIn here
-- Email: add your email here
-- GitHub: add your GitHub here
+I'm always open to connecting around data science, finance, research, and analytics projects.
+
+<!-- Add your LinkedIn, email, or portfolio links here when ready. -->
