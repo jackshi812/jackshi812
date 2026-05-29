@@ -101,9 +101,7 @@ I enjoy turning messy data into clear insight, building models for real-world pr
 
 ## Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackshi812&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackshi812)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
