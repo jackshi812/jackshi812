@@ -8,6 +8,17 @@ I'm a data science and finance student building practical analytics, machine lea
   <img src="https://img.shields.io/badge/Finance%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Finance Analytics" />
 </p>
 
+## Contact Me
+
+<p>
+  <a href="mailto:jackshi0812@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jackshi0812%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zhaoyan-shi-a674622b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=0e76a8" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -20,37 +31,79 @@ I enjoy turning messy data into clear insight, building models for real-world pr
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css&perline=3" alt="Languages" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      </p>
+      <p>Python · R · JavaScript · TypeScript · HTML/CSS · SQL</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>AI / Machine Learning</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="AI and machine learning" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/statsmodels-444444?style=flat-square" alt="statsmodels" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-D62728?style=flat-square" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/NLP-17BECF?style=flat-square" alt="NLP" />
+      </p>
+      <p>Regression · Classification · Clustering · Time Series · NLP · Computer Vision</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Data Science</h3>
+      <p>
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      </p>
+      <p>Data cleaning · Visualization · Statistical modeling · Analytics storytelling</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Finance & Research</h3>
+      <p>
+        <img src="https://img.shields.io/badge/DCF%20Valuation-0B6E4F?style=flat-square" alt="DCF Valuation" />
+        <img src="https://img.shields.io/badge/Equity%20Research-22577A?style=flat-square" alt="Equity Research" />
+        <img src="https://img.shields.io/badge/Financial%20Modeling-38A3A5?style=flat-square" alt="Financial Modeling" />
+        <img src="https://img.shields.io/badge/Risk%20Analysis-C1121F?style=flat-square" alt="Risk Analysis" />
+      </p>
+      <p>DCF · Comparables · Sector research · Risk analysis · Excel modeling</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Cloud / Infrastructure</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=gcp,git,github&perline=3" alt="Cloud and infrastructure" />
+      </p>
+      <p>Google Cloud · Git · GitHub · Reproducible workflows</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Databases & Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,vscode&perline=3" alt="Databases and tools" />
+      </p>
+      <p>PostgreSQL · MySQL · Jupyter Notebook · VS Code · Excel VBA</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Project Workflow
-
-```mermaid
-flowchart LR
-    A[Messy Data] --> B[Cleaning & Feature Engineering]
-    B --> C[Modeling & Analysis]
-    C --> D[Validation]
-    D --> E[Stakeholder-Ready Insights]
-    C --> F[Financial Research]
-    C --> G[Machine Learning Products]
-```
-
----
-
-## GitHub Activity
+## Stats
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=jackshi812&theme=flat&no-frame=true&margin-w=8&row=1&column=4" alt="Jack Shi's GitHub trophies" />
-</p>
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jackshi812&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Jack Shi's GitHub stats" />
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackshi812&layout=compact&theme=tokyonight&langs_count=6" alt="Jack Shi's top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackshi812&theme=minimal&hide_border=true&area=true" alt="Jack Shi's GitHub activity graph" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=jackshi812&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jack Shi's GitHub stats" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackshi812&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Jack Shi's top languages" />
 </p>
 
 ---
@@ -79,13 +132,3 @@ Conducted company valuation, DCF modeling, comparable company analysis, and sect
 - Improving cloud-based data workflows and reproducible project pipelines
 
 ---
-
-## Connect With Me
-
-I'm always open to connecting around data science, finance, research, and analytics projects.
-
-<a href="https://www.linkedin.com/in/zhaoyan-shi-a674622b8/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black" alt="LinkedIn">
-</a>
-
-<!-- Replace the LinkedIn URL above with your profile link when ready. -->
