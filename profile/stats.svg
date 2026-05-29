@@ -1,0 +1,9 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub stats card placeholder</title>
+  <desc id="desc">This placeholder will be replaced by GitHub Actions after the README card workflow runs.</desc>
+  <rect width="495" height="195" rx="4.5" fill="#1A1B27"/>
+  <text x="24" y="48" fill="#70A5FD" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Jack's GitHub Stats</text>
+  <text x="24" y="86" fill="#C3D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Run the "Update README cards" workflow</text>
+  <text x="24" y="112" fill="#C3D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="14">to generate this card.</text>
+  <text x="24" y="154" fill="#9ECE6A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Powered by github-readme-stats-action</text>
+</svg>
