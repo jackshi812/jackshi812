@@ -29,6 +29,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=jackshi812&show_icons=true&theme=default&hide_border=true
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -36,6 +44,27 @@ jobs:
           options: username=jackshi812&layout=compact&theme=tokyonight&langs_count=6&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=jackshi812&layout=compact&theme=default&langs_count=6&hide_border=true
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: jackshi812
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move snake SVGs into profile
+        run: mv dist/*.svg profile/
 
       - name: Commit cards
         run: |

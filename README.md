@@ -1,6 +1,6 @@
 # Hi, I'm Jack Shi 👋
 
-I'm a data science and finance student building practical analytics, machine learning, and financial research projects.
+Data science and finance student building practical analytics, machine learning, and financial research projects.
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
@@ -23,9 +23,7 @@ I'm a data science and finance student building practical analytics, machine lea
 
 ## About Me
 
-I'm currently pursuing an M.S. in Applied Data Science at the University of Chicago, with a background in Economics and Mathematics. My work sits at the intersection of **data analytics, machine learning, finance, and business decision-making**.
-
-I enjoy turning messy data into clear insight, building models for real-world problems, and communicating results in a way that helps people make better decisions.
+I'm pursuing an M.S. in Applied Data Science at the University of Chicago, with a background in Economics and Mathematics. My work sits at the intersection of **machine learning, finance, and business decision-making** — turning messy data into clear insight and communicating results so people can act on them.
 
 ---
 
@@ -102,33 +100,51 @@ I enjoy turning messy data into clear insight, building models for real-world pr
 ## Stats
 
 <p>
-  <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/stats.svg" alt="Jack's GitHub stats" />
-  <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/top-langs.svg" alt="Jack's top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/stats.svg">
+    <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/stats-light.svg" alt="Jack's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/top-langs.svg">
+    <img align="center" height="165" src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/top-langs-light.svg" alt="Jack's top languages" />
+  </picture>
 </p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jackshi812&theme=tokyonight&hide_border=true">
+    <img align="center" height="165" src="https://streak-stats.demolab.com?user=jackshi812&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/jackshi812/jackshi812/main/profile/github-snake.svg" alt="Contribution snake" />
+</picture>
 
 ---
 
 ## Selected Projects
 
-### Computer Vision Bird Tracking
-Improved bird detection and track recovery in 4K video data for an avian monitoring project.
+### [AI News NLP Analysis](https://github.com/jackshi812/ai-news-nlp-analysis)
+NLP pipeline over ~200K news articles using BERTopic, NER, and RoBERTa sentiment to measure AI exposure, firm-level sentiment, and temporal trends across sectors.
 
-### Multimodal Meme Clustering
-Built an unsupervised clustering pipeline that combines image embeddings, OCR text, template features, and graph-based clustering.
+### [Verizon Device Financing Credit Risk](https://github.com/jackshi812/verizon-default-project)
+Credit risk model on 12K financing applications comparing Logistic Regression and Random Forest, with ROC-AUC optimization and calibrated thresholds for risk-based approvals.
 
-### Spotify Clustering and Recommendation
-Clustered songs with audio features and lyrics text to explore recommendation patterns and listener-facing similarity.
+### [Rate Cuts, Hikes, and Stock Returns](https://github.com/jackshi812/rate-cut-hike-stock-returns)
+Event-study analysis of how stock returns react to Fed rate cuts and hikes, combining financial data with quantitative models of market response to monetary policy.
 
-### Financial Valuation and Equity Research
-Conducted company valuation, DCF modeling, comparable company analysis, and sector research.
+### [Interactive Chess Learning Site](https://github.com/jackshi812/chess)
+Website that teaches beginners board coordinates, common openings, and the reasoning behind each move through step-by-step lessons and practice modes.
 
 ---
 
 ## What I'm Working On
 
-- Strengthening my machine learning and data engineering foundations
-- Applying computer vision to real-world detection problems
-- Preparing for analytics, business analyst, equity research, and quantitative finance roles
-- Improving cloud-based data workflows and reproducible project pipelines
+- Machine learning and data engineering foundations
+- Computer vision for real-world detection problems
+- Preparing for analytics, equity research, and quantitative finance roles
+- Cloud-based data workflows and reproducible project pipelines
 
 ---
