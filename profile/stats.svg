@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zhaoyan Shi&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1057, Total PRs: 2, Total Issues: 0, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1063, Total PRs: 2, Total Issues: 0, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 197.36065118118225;
+        stroke-dashoffset: 197.32377353966967;
       }
     }
   
